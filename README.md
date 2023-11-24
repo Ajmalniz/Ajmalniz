@@ -2,7 +2,7 @@
 - 👀 I’m interested in full stack
 - 🌱 I’m currently learning block chain
 - 💞️ I’m looking to collaborate on Metaverse
-- 📫 How to reach me  linkden profile link https://www.linkedin.com/in/ajmal-khan-nizamani/
+- 📫 How to reach me  linkden profile link https://www.linkedin.com/in/front-end-developer-headless-cms-ai-blockchain/
 
 <!---
 Ajmalniz/Ajmalniz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
