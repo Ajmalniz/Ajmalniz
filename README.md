@@ -47,7 +47,7 @@ I'm always excited to collaborate on projects involving:
 - Advanced API integrations
 
 ### 📫 How to Reach Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/front-end-developer-headless-cms-ai-blockchain/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/ajmal-ai-engineer//)
 
 ---
 <sub>✨ This README is a living document and is regularly updated with my latest projects and learnings.</sub>
