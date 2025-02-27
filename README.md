@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Ajmal Khan!
 
 ## 🚀 About Me
-I am a passionate Generative AI and Agentic AI enthusiast with expertise in Java API development and Python programming. My focus is on building intelligent AI agents and integrating cutting-edge AI solutions into real-world applications.
+I am a passionate Generative AI and Agentic AI enthusiast with expertise in  API development and Python programming. My focus is on building intelligent AI agents and integrating cutting-edge AI solutions into real-world applications.
 
 ## 💪 Core Competencies
 - **Generative AI Development** 🤖
