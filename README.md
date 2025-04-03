@@ -2,6 +2,10 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python Badge"/>
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI Badge"/>
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js Badge"/>
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI Badge"/>
+  <img src="https://img.shields.io/badge/CrewAI-FF6B6B?style=for-the-badge&logo=robot&logoColor=white" alt="CrewAI Badge"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker Badge"/>
+  <img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Gemini Badge"/>
   
   <h1>👋 Ajmal Khan</h1>
   <h3><i>Building the Future with AI and Web Tech</i></h3>
@@ -57,8 +61,8 @@ print(build_future())
 
 <div align="center">
 
-[![Project Card](https://github-readme-stats.vercel.app/api/pin/?username=Ajmalniz&repo=YOUR_BEST_REPO)](https://github.com/Ajmalniz/YOUR_BEST_REPO)
-[![Project Card](https://github-readme-stats.vercel.app/api/pin/?username=Ajmalniz&repo=ANOTHER_GREAT_REPO)](https://github.com/Ajmalniz/ANOTHER_GREAT_REPO)
+[![Project Card](https://github-readme-stats.vercel.app/api/pin/?username=Ajmalniz&repo=openai-agents)](https://github.com/Ajmalniz/openai-agents)
+[![Project Card](https://github-readme-stats.vercel.app/api/pin/?username=Ajmalniz&repo=CerwAgents)](https://github.com/Ajmalniz/CerwAgents)
 
 </div>
 
@@ -71,9 +75,7 @@ print(build_future())
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <!-- Add your Twitter badge if you have one -->
-  <a href="https://twitter.com/YOUR_TWITTER">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
-  </a>
+
 </div>
 
 ---
