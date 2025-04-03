@@ -62,8 +62,40 @@ print(build_future())
 <div align="center">
 
 [![Project Card](https://github-readme-stats.vercel.app/api/pin/?username=Ajmalniz&repo=openai-agents)](https://github.com/Ajmalniz/openai-agents)
-[![Project Card](https://github-readme-stats.vercel.app/api/pin/?username=Ajmalniz&repo=CerwAgents)](https://github.com/Ajmalniz/CerwAgents)
+> A sophisticated implementation leveraging OpenAI Agents SDK to build powerful multi-agent workflows and autonomous systems. Features intelligent agents, seamless handoffs, and advanced tracing capabilities.
 
+[![Project Card](https://github-readme-stats.vercel.app/api/pin/?username=Ajmalniz&repo=CerwAgents)](https://github.com/Ajmalniz/CerwAgents)
+> Learn and implement Agentic AI using CrewAI, Autogen, and LangGraph. Showcases collaborative AI workflows and practical applications of multi-agent systems.
+
+</div>
+
+---
+
+## GitHub Stats
+
+<div align="center">
+
+![Ajmal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ajmalniz&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ajmalniz&layout=compact&theme=radical)
+
+</div>
+
+---
+
+## Latest Technical Writing
+
+- 🤖 [Building Autonomous AI Agents with OpenAI](https://your-blog-url.com) - Guide to creating intelligent agent systems
+- 🔄 [Multi-Agent Systems with CrewAI](https://your-blog-url.com) - Deep dive into collaborative AI workflows
+- 📊 [Implementing RAG with Vector Databases](https://your-blog-url.com) - Tutorial on context-aware AI systems
+
+---
+
+## Certifications & Achievements
+
+<div align="center">
+  <img src="https://img.shields.io/badge/OpenAI-Certified_Developer-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI Certification"/>
+  <img src="https://img.shields.io/badge/AWS-Solutions_Architect-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS Certification"/>
+  <!-- Add your actual certifications -->
 </div>
 
 ---
@@ -74,8 +106,12 @@ print(build_future())
   <a href="https://www.linkedin.com/in/ajmal-ai-engineer/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <!-- Add your Twitter badge if you have one -->
-
+  <a href="https://twitter.com/YOUR_TWITTER">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+  </a>
+  <a href="https://your-blog-url.com">
+    <img src="https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=blogger&logoColor=white" alt="Blog"/>
+  </a>
 </div>
 
 ---
