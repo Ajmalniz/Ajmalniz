@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=2D7FF9&center=true&vCenter=true&width=600&lines=Hi+there+👋+I'm+Ajmal+Khan;AI+Engineer+%7C+Python+Instructor;Innovating+with+Intelligent+Systems" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=2D7FF9&center=true&vCenter=true&width=600&lines=Hi+there+👋+I'm+Ajmal+Khan;AI+Engineer+%7C+Python+Instructor; Innovating+with+Intelligent+Systems" alt="Typing SVG" />
   
   <h3>Specializing in Generative AI, Agentic AI, and Scalable API Solutions</h3>
   
@@ -115,8 +115,12 @@ More projects coming soon as I continue to build and share my work!
 
 ## 📊 GitHub Stats
 
+## 📊 GitHub Stats
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ajmalniz&show_icons=true&theme=radical" alt="GitHub Stats"/>
+  <p>Building my GitHub presence with a focus on AI and automation—stay tuned for more!</p>
+  <img src="https://github-readme-stats.vercel.app/api?username=Ajmalniz&show_icons=true&theme=radical&hide=issues" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ajmalniz&layout=compact&theme=radical" alt="Top Languages"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ajmalniz&theme=radical" alt="GitHub Streak"/>
 </div>
 
@@ -127,7 +131,7 @@ More projects coming soon as I continue to build and share my work!
 </div>
 
 **Python Instructor**  
-*Saylani Welfare Trust | 2022 – Present*  
+*Sindh Eduction  | 2022 – Present*  
 - 🎓 Teaching Python programming to 100+ students, focusing on fundamentals, data structures, and AI basics.
 - 💡 Designing hands-on coding workshops to bridge theory and practice.
 
