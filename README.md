@@ -1,7 +1,9 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=2D7FF9&center=true&vCenter=true&width=600&lines=Hi+there+👋+I'm+Ajmal+Khan;AI+Engineer+%7C+Python+Instructor; Innovating+with+Intelligent+System" alt="Typing SVG" />
+  <h1>👋 Hi there, I'm Ajmal Khan</h1>
+  <h2>AI Engineer | Python Instructor</h2>
+  <h3>Innovating with Intelligent Systems</h3>
   
-  <h3>Specializing in Generative AI, Agentic AI, and Scalable API Solutions</h3>
+  <p>Specializing in Generative AI, Agentic AI, and Scalable API Solutions</p>
   
   <div>
     <a href="https://www.linkedin.com/in/ajmal-ai-engineer/">
