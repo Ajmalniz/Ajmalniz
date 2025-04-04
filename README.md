@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <div align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python Badge"/>
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI Badge"/>
@@ -13,30 +14,55 @@
   [![GitHub followers](https://img.shields.io/github/followers/Ajmalniz?style=social)](https://github.com/Ajmalniz?tab=followers)
   [![GitHub stars](https://img.shields.io/github/stars/Ajmalniz?style=social)](https://github.com/Ajmalniz?tab=repositories)
 </div>
+=======
+# 👋 Hi, I'm Ajmal Khan!  
+>>>>>>> parent of e93a393 (update)
 
----
+## 🚀 About Me  
+I am an AI Engineer specializing in **Generative AI** and **Agentic AI**, with expertise in **API development** and **Python programming**. My focus is on developing intelligent AI agents and integrating cutting-edge AI solutions into real-world applications.  
 
-## About Me
+## 💪 Core Competencies  
+- **Generative AI & Agentic AI** 🤖  
+  - CrewAI | AutoGen | LangGraph | LangChain  
+- **Database Technologies** 📊  
+  - Graph Databases | Vector Databases  
+- **System Integration & Automation** 🔗  
+  - API Development | FastAPI | AI-powered Workflows  
+- **AI Applications** 🗣️  
+  - Voice AI | Conversational AI  
+- **Software Development** 💻  
+  - Python | TypeScript | Cloud-based AI Solutions  
+- **Technical Education & Mentorship** 👨‍🏫  
+  - Python Programming | AI Workshops  
 
-Hey there! I'm **Ajmal Khan**, an AI engineer and web developer passionate about **Generative AI**, **Agentic AI**, and modern web technologies. I specialize in crafting intelligent AI agents, designing scalable data architectures, and building high-performance web solutions. From autonomous systems to innovative workflows, I'm driven to push the boundaries of what's possible with AI and tech. Let's create something groundbreaking together!
+## 🌱 Current Focus  
+- **Advanced AI Agent Development** – Enhancing autonomous systems for decision-making  
+- **Optimizing Graph & Vector Databases** – Improving AI-driven data retrieval  
+- **AI-Powered API Integrations** – Building intelligent and scalable API solutions  
 
----
+## 💡 Active Projects  
+### **1️⃣ AI Agent Development**  
+- Designing autonomous AI agents for process automation  
+- Implementing intelligent decision-making frameworks  
 
-## What I'm Working On
+### **2️⃣ Voice AI Innovation**  
+- Developing real-time voice-to-voice AI chatbots  
+- Integrating OpenAI Whisper, LLaMA, and TTS technologies  
 
-Here's what's fueling my curiosity and code right now:
+### **3️⃣ Community Education & Mentorship**  
+- Conducting Python programming workshops  
+- Mentoring aspiring AI developers  
 
-- **OpenAI Agents SDK**: Developing intelligent, autonomous agent-based systems.
-- **AgenticOPS**: Streamlining operations for AI agents to maximize efficiency.
-- **Model Context Protocol (MCP)**: Implementing advanced protocols for context management in large language models.
-- **CrewAI & LangGraph**: Building collaborative AI workflows in Python to power next-gen apps.
-- **Next.js**: Crafting fast, modern web applications with a focus on performance.
-- **Telegram**: Integrating bots and automation for smarter communication.
-- **Graph Databases & Vector Databases**: Optimizing AI-driven data retrieval and storage.
-- **Agentic RAG**: Enhancing retrieval-augmented generation for context-aware AI agents.
+## 🤝 Let's Connect!  
+I am open to collaborations on:  
+✅ Generative AI solutions  
+✅ AI agent development  
+✅ Advanced API integrations  
 
----
+### 📫 Reach Out to Me  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/ajmal-ai-engineer/)  
 
+<<<<<<< HEAD
 ## Skills
 
 My tech stack is my toolkit for innovation:
@@ -119,4 +145,8 @@ print(build_future())
 <div align="center">
   <sub>✨ Always learning, always building. Let's connect and create something amazing!</sub>
 </div>
+=======
+---  
+<sub>✨ This README is a living document and is regularly updated with my latest projects and learnings.</sub>  
+>>>>>>> parent of e93a393 (update)
 
