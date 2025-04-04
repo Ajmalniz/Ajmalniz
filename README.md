@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=2D7FF9&center=true&vCenter=true&width=600&lines=Hi+there+👋+I'm+Ajmal+Khan;AI+Engineer+%7C+Python+Instructor; Innovating+with+Intelligent+Systems" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=2D7FF9&center=true&vCenter=true&width=600&lines=Hi+there+👋+I'm+Ajmal+Khan;AI+Engineer+%7C+Python+Instructor; Innovating+with+Intelligent+System" alt="Typing SVG" />
   
   <h3>Specializing in Generative AI, Agentic AI, and Scalable API Solutions</h3>
   
@@ -25,17 +25,14 @@
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker Badge"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript Badge"/>
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React Badge"/>
+  <img src="https://img.shields.io/badge/LangChain-00A67E?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain Badge"/>
 </div>
 
 ---
 
 ## 🚀 About Me
 
-<div align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="300" height="200" alt="Coding GIF"/>
-</div>
-
-Hey there! I'm **Ajmal Khan**, an AI Engineer with a passion for **Generative AI**, **Agentic AI**, and system automation. With over 2 years of experience as a Python Instructor at **Saylani Welfare Trust**, I've honed my skills in teaching and building real-world AI solutions. I specialize in developing intelligent AI agents, designing scalable APIs with **FastAPI**, and integrating cutting-edge technologies like **OpenAI** and **CrewAI**. My mission? To create autonomous systems that solve problems and empower others through tech education.
+Hey there! I'm **Ajmal Khan**, an AI Engineer passionate about building intelligent solutions using **Generative AI** and **Agentic AI**. I focus on creating autonomous systems and scalable APIs, particularly with **FastAPI**. With over 2 years of experience as a Python Instructor at **Sindh Education and Literacy Department**, I enjoy both developing cutting-edge AI applications and empowering others through tech education. My core expertise lies in integrating technologies like **OpenAI** and **CrewAI** to solve complex problems effectively.
 
 ---
 
@@ -51,10 +48,10 @@ Hey there! I'm **Ajmal Khan**, an AI Engineer with a passion for **Generative AI
       </td>
       <td align="center" width="33%">
         <strong>AI & Agents</strong><br>
-        <code>OpenAI Agents SDK</code><br>
+        <code>OpenAI API/SDK</code><br>
         <code>CrewAI</code><br>
         <code>LangChain</code><br>
-        <code>AutoGen</code>
+        <code>Agentic Workflows</code>
       </td>
       <td align="center" width="33%">
         <strong>Frameworks</strong><br>
@@ -65,18 +62,19 @@ Hey there! I'm **Ajmal Khan**, an AI Engineer with a passion for **Generative AI
     <tr>
       <td align="center" width="33%">
         <strong>Databases</strong><br>
-        <code>Graph Databases</code><br>
-        <code>Vector Databases</code>
+        <code>Vector Databases</code><br>
+        <code>Graph Databases</code>
       </td>
       <td align="center" width="33%">
         <strong>Specialties</strong><br>
         <code>API Development</code><br>
-        <code>Conversational AI</code><br>
-        <code>System Automation</code>
+        <code>Generative AI</code><br>
+        <code>System Automation</code><br>
+        <code>AI Agent Design</code>
       </td>
       <td align="center" width="33%">
         <strong>Tools</strong><br>
-        <code>Git</code><br>
+        <code>Git & GitHub</code><br>
         <code>Docker</code>
       </td>
     </tr>
@@ -84,56 +82,53 @@ Hey there! I'm **Ajmal Khan**, an AI Engineer with a passion for **Generative AI
 </div>
 
 ```python
-# My approach in code:
-def solve_with_ai(problem):
-    return "Intelligent Agents + Scalable Systems = Real Impact"
-print(solve_with_ai("complex challenges"))
+# My approach to building impactful AI:
+def build_solution(problem_domain):
+    agent_strategy = "Leverage Multi-Agent Systems (CrewAI/OpenAI Agents)"
+    api_design = "Build Scalable APIs (FastAPI)"
+    integration = "Integrate Cutting-Edge Models (OpenAI)"
+    print(f"Solving {problem_domain} with: {agent_strategy}, {api_design}, {integration}")
+
+build_solution("Complex Automation Tasks")
 ```
 
-## 🌱 What I'm Working On
+## 🌱 What I'm Currently Focused On
 
-<div align="center">
-  <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="200" height="200" alt="Working GIF"/>
-</div>
-
-Here's what's driving my code and curiosity right now:
-
-- 🚀 **OpenAI Agents SDK**: Learning and experimenting with autonomous AI agents for task automation. Check out my progress: [openai-agents](https://github.com/Ajmalniz/openai-agents).
-- 🤖 **Agentic AI**: Exploring multi-agent workflows with CrewAI and AutoGen.
-- ⚡ **API Development**: Building fast, reliable APIs with FastAPI for AI-driven applications.
-- 📚 **Teaching Python**: Mentoring students at Sindh Eduction and Literacy Department to master programming and AI concepts.
+- 🚀 **OpenAI Agents SDK**: Actively exploring and implementing autonomous AI agents for complex task automation. Check out my experiments: [openai-agents](https://github.com/Ajmalniz/openai-agents).
+- 🤖 **Agentic AI Workflows**: Designing and testing multi-agent systems using CrewAI for collaborative problem-solving.
+- ⚡ **Scalable API Development**: Refining my FastAPI skills to build robust and efficient backends for AI applications.
+- 📚 **Teaching Python & AI**: Mentoring students at Sindh Education and Literacy Department, focusing on practical AI concepts and programming skills.
 
 ## 💡 Featured Projects
 
 <div align="center">
   <h3>OpenAI Agents SDK</h3>
-  <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="200" height="200" alt="Project GIF"/>
-  <p>My learning journey with the OpenAI Agents SDK—building and testing autonomous AI agents for real-world tasks. Currently in progress as I explore agent-based workflows.</p>
+  <p>
+    **Description:** My learning journey with the OpenAI Agents SDK—building and testing autonomous AI agents for real-world tasks. Currently in progress as I explore agent-based workflows.
+    <br>
+    **Tech Used:** Python, OpenAI API, FastAPI, Vector DB
+  </p>
+  <a href="https://github.com/Ajmalniz/openai-agents"><strong>View Code on GitHub</strong></a>
 </div>
 
 More projects coming soon as I continue to build and share my work!
 
 ## 📊 GitHub Stats
 
-## 📊 GitHub Stats
-
 <div align="center">
   <p>Building my GitHub presence with a focus on AI and automation—stay tuned for more!</p>
-  <img src="https://github-readme-stats.vercel.app/api?username=Ajmalniz&show_icons=true&theme=radical&hide=issues" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Ajmalniz&show_icons=true&theme=radical&hide=issues&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ajmalniz&layout=compact&theme=radical" alt="Top Languages"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ajmalniz&theme=radical" alt="GitHub Streak"/>
+  
 </div>
 
 ## 👨‍🏫 Experience
 
-<div align="center">
-  <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="200" height="200" alt="Experience GIF"/>
-</div>
-
 **Python Instructor**  
-*Sindh Eduction  | 2022 – Present*  
-- 🎓 Teaching Python programming to 100+ students, focusing on fundamentals, data structures, and AI basics.
-- 💡 Designing hands-on coding workshops to bridge theory and practice.
+*Sindh Education and Literacy Department | 2022 – Present*  
+- 🎓 Teaching Python programming, data structures, and foundational AI concepts to over 100 students.
+- 💡 Designing and delivering practical coding workshops and projects to enhance learning.
+- 📈 Mentoring students on building their programming portfolios and preparing for tech roles.
 
 ## 🏆 Certifications
 
@@ -148,18 +143,18 @@ More projects coming soon as I continue to build and share my work!
     <tr>
       <td width="33%">
         <strong>Google Advanced Data Analytics</strong><br>
-        <em>Date September 27, 2024 | 7 Courses, ~7 Months</em><br>
-        Python, Statistics, ML
+        <em>Completed: September 27, 2024 | 7 Courses</em><br>
+        Skills: Python, Statistics, Machine Learning, Data Viz
       </td>
       <td width="33%">
         <strong>Meta Front-End Developer</strong><br>
-        <em>April 9, 2023 | 9 Courses, 7 Months</em><br>
-        JavaScript, React, UX/UI
+        <em>Completed: April 9, 2023 | 9 Courses</em><br>
+        Skills: JavaScript, React, HTML/CSS, UX/UI
       </td>
       <td width="33%">
         <strong>Google Data Analytics</strong><br>
-        <em>September 6, 2024 | 8 Courses, 6 Months</em><br>
-        Data Analysis, R, Visualization
+        <em>Completed: September 6, 2024 | 8 Courses</em><br>
+        Skills: Data Analysis, R, SQL, Spreadsheets, Viz
       </td>
     </tr>
   </table>
@@ -167,38 +162,28 @@ More projects coming soon as I continue to build and share my work!
 
 ## 🤝 Let's Connect!
 
-<div align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="300" height="200" alt="Connect GIF"/>
-</div>
-
-I'm excited to collaborate on:
+I'm always open to discussing new ideas, collaborating on interesting AI projects, or exploring opportunities. I'm particularly excited about:
 
 <div align="center">
   <table>
     <tr>
-      <td align="center">
-        🤖 AI Agent Development
-      </td>
-      <td align="center">
-        🎨 Generative AI Solutions
-      </td>
-      <td align="center">
-        📚 Python Education
-      </td>
+      <td align="center" width="33%">🤖 AI Agent Development</td>
+      <td align="center" width="33%">⚡ Scalable AI Systems & APIs</td>
+      <td align="center" width="33%">🎨 Innovative Generative AI Applications</td>
     </tr>
   </table>
 </div>
 
-Reach out to me:
+Feel free to reach out!
 
 <div align="center">
   <a href="https://www.linkedin.com/in/ajmal-ai-engineer/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=2D7FF9&center=true&vCenter=true&width=600&lines=Always+learning%2C+coding%2C+and+teaching;Let's+build+something+impactful+together!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=2D7FF9&center=true&vCenter=true&width=600&lines=Always+learning%2C+always+building%2C+always+innovating.;Let's+create+impactful+AI+together!" alt="Closing Typing SVG" />
 </div>
