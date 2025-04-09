@@ -119,7 +119,7 @@ More projects coming soon as I continue to build and share my work!
 
 <div align="center">
   <p>Building my GitHub presence with a focus on AI and automation—stay tuned for more!</p>
-  <img src="https://github-readme-stats.vercel.app/api?username=Ajmalniz&show_icons=true&theme=radical&hide=issues&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
+  
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ajmalniz&layout=compact&theme=radical" alt="Top Languages"/>
   
 </div>
